@@ -5,4 +5,4 @@ estou alterando no remoto
 
 estou alterando local
 
-sozinho
+index.html, sobre-nos.html, style.css foi criado dia 14-03-2024
